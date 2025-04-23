@@ -16,4 +16,18 @@ Phase 5	串接其他語言與實作 JVM internals	嘗試 JNI (與 C 結合)，�
 
 ## Docs/Tips/MISC...etc
 
+* Java 8
+    * [docs.oracle.com/Trail: Learning the Java Language](https://docs.oracle.com/javase/tutorial/java/index.html)
+* sdkman
+    * effortlessly managing multiple Software Development Kits on Unix systems
+    * [sdkman.io/usage](https://sdkman.io/usage)
 * [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/index.html)
+* [Java Platform Standard Edition 8 Documentation](https://docs.oracle.com/javase/8/docs/index.html)
+* [spring.io/guides/gs/spring-boot](https://spring.io/guides/gs/spring-boot)
+    * Java 17 or later
+* [spring.io/guides/gs/rest-service](https://spring.io/guides/gs/rest-service)
+    * Building a RESTful Web Service
+* [github.com/spring-projects/spring-boot/tree/2.7.x](https://github.com/spring-projects/spring-boot/tree/2.7.x)
+* [docs.spring.io/spring-boot/docs/2.7.17/reference/html/index.html](https://docs.spring.io/spring-boot/docs/2.7.17/reference/html/index.html)
+* [github.com/hong539/opentelemetry-demo/tree/main/src/ad](https://github.com/hong539/opentelemetry-demo/tree/main/src/ad)
+    * java 21
