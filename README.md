@@ -16,8 +16,15 @@ Phase 5	串接其他語言與實作 JVM internals	嘗試 JNI (與 C 結合)，�
 
 ## Docs/Tips/MISC...etc
 
+* [github.com/open-telemetry/opentelemetry-demo/tree/main/src/ad](https://github.com/open-telemetry/opentelemetry-demo/tree/main/src/ad)
+* Oracle
+    * [docs.oracle.com/javase/tutorial/index.html](https://docs.oracle.com/javase/tutorial/index.html)
+    * [www.oracle.com/java/technologies/language-environment.html](https://www.oracle.com/java/technologies/language-environment.html)
 * Java 8
     * [docs.oracle.com/Trail: Learning the Java Language](https://docs.oracle.com/javase/tutorial/java/index.html)
+    * [docs.oracle.com/javase/8/docs/index.html](https://docs.oracle.com/javase/8/docs/index.html)
+    * [docs.oracle.com/javase/8/docs/technotes/tools/index.html#scripting](https://docs.oracle.com/javase/8/docs/technotes/tools/index.html#scripting)
+    * [docs.oracle.com/javase/8/docs/technotes/guides/vm/index.html](https://docs.oracle.com/javase/8/docs/technotes/guides/vm/index.html)
 * sdkman
     * effortlessly managing multiple Software Development Kits on Unix systems
     * [sdkman.io/usage](https://sdkman.io/usage)

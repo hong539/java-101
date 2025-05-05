@@ -9,7 +9,10 @@ public class Operators {
     System.out.println(original_result + " - 1 = " + result);
 
     // ConcatDemo
-
+    String firstString = "This is";
+    String secondString = " a concatenated string.";
+    String thirdString = firstString+secondString;
+    System.out.println(thirdString);
     // UnaryDemo
 
     // PrePostDemo
