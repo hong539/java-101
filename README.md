@@ -16,6 +16,8 @@ Phase 5	串接其他語言與實作 JVM internals	嘗試 JNI (與 C 結合)，�
 
 ## Docs/Tips/MISC...etc
 
+* [dev.java/learn/](https://dev.java/learn/)
+    * [dev.java/learn/vscode-java/](https://dev.java/learn/vscode-java/)
 * [github.com/open-telemetry/opentelemetry-demo/tree/main/src/ad](https://github.com/open-telemetry/opentelemetry-demo/tree/main/src/ad)
 * Oracle
     * [docs.oracle.com/javase/tutorial/index.html](https://docs.oracle.com/javase/tutorial/index.html)
